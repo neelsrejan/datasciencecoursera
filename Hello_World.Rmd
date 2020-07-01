@@ -1,0 +1,10 @@
+---
+title: "Hello_World"
+author: "Neel"
+date: "6/30/2020"
+output: pdf_document
+---
+## This is a markdown file 
+```{r}
+print("Hello World")
+```
